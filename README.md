@@ -22,6 +22,52 @@ python app.py
 
 The simulation will run, and you'll see the progress of the match in the terminal. The output will include information about each ball, the scores, wickets, overs, and the final result of the match.
 
+Here are step-by-step instructions on how to clone, navigate, and run the cricket simulation code:
+
+1. **Clone the Repository**:
+    - Open your preferred web browser and go to the GitHub repository containing the cricket simulation code.
+    - Click on the "Code" button near the top-right of the repository's page.
+    - Choose the "Download ZIP" option to download the repository as a ZIP file.
+    - Save the ZIP file to a location on your computer where you'd like to work on this project.
+    - Extract the contents of the ZIP file to a folder of your choice.
+
+2. **Open a Terminal or Command Prompt**:
+    - On Windows: Press `Win + R`, type `cmd`, and press Enter.
+    - On macOS: Press `Command + Space`, type `terminal`, and press Enter.
+    - On Linux: Press `Ctrl + Alt + T`.
+
+3. **Navigate to the Directory Containing `app.py`**:
+    - Use the `cd` command to change the current directory in the terminal.
+    - If you extracted the repository ZIP file to the `Downloads` folder, the command might look like this (replace `<path_to_folder>` with the actual path to the extracted folder):
+
+    ```bash
+    cd /path_to_folder/cricket-simulation-game-main
+    ```
+
+    - Verify that the `app.py` file is located in this directory by using the `ls` command (on macOS and Linux) or the `dir` command (on Windows):
+
+    ```bash
+    ls
+    ```
+
+    or
+
+    ```bash
+    dir
+    ```
+
+4. **Run the Cricket Simulation**:
+    - Once you're in the directory containing the `app.py` file, you can run the simulation by executing the following command:
+
+    ```bash
+    python app.py
+    ```
+
+    - This command runs the Python script, which starts the cricket simulation.
+    - You should see the simulation progress in the terminal, displaying information about the match's progress, such as balls played, runs scored, wickets, overs, and the final result.
+
+That's it! You've successfully cloned the repository, navigated to the directory, and run the cricket simulation. Enjoy the game and observe how the match unfolds based on the provided code!
+
 ## File Structure
 
 The code is organized into several Python modules:

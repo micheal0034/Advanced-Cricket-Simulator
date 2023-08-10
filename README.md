@@ -86,3 +86,11 @@ You can customize the simulation by adjusting the parameters in the `app.py` fil
 ## Enjoy the Game!
 
 That's it! You're ready to run the cricket simulation and enjoy the game. Watch the match unfold in the terminal and see which team emerges victorious. Have fun playing and experimenting with different parameters to explore the dynamics of the game!
+
+## Here's a video on its output
+
+
+https://github.com/micheal0034/Advanced-Cricket-Simulator/assets/67734700/049e6fd1-64a3-42bc-bbe9-42eb7f15f27a
+
+
+
